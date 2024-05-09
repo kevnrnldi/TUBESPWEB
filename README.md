@@ -6,6 +6,7 @@
 ![image](https://github.com/zorgonide/movieflix/assets/48021258/dec4d1c8-9311-4180-ab64-f6ae7f2dc386)
 ![image](https://github.com/zorgonide/movieflix/assets/48021258/bf49d489-0123-4143-9b59-6d24f5dc0ba3)
 
-Run command – 
+Cara deploy :
 
-    npm run start-dev
+-- npm install
+-- npm run start-dev
